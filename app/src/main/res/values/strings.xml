@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gallery_v_02</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="download">Скачивание картинки</string>
+    <string name="autor_detail">\"Автор: \"</string>
+    <string name="save">Сохранить</string>
+</resources>
